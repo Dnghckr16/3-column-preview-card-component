@@ -94,7 +94,7 @@ img{
     padding: 15px 35px;
     font-size: 15px;
     font-family:"Lexend Deca";
-    width: 100%; 
+    width: 70%; 
 }
 
 .btn2 button{
@@ -105,7 +105,7 @@ img{
     color: hsl(184, 100%, 22%);
     font-family:"Lexend Deca";
     border:2px solid white;
-     width: 100%; 
+     width: 70%; 
     
 }
 .btn3 button{
@@ -116,7 +116,7 @@ img{
     font-size: 15px;
     font-family:"Lexend Deca";
     border:2px solid white;
-    width: 100%;   
+    width:70%;   
  
 }
 .btn button{
